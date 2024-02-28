@@ -1,5 +1,3 @@
-# hutzper
-
 To install dependencies:
 
 ```bash
